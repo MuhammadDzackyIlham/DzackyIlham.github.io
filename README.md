@@ -1,11 +1,11 @@
-<h1 align="center">Laravel 8 Blog</h1>
+<h1 align="center">Laravel Blog</h1>
 
 ## Author
 
-Laravel 8 blog dibaut oleh :
+Laravel blog dibuat oleh :
 
-- Github : <a href="https://github.com/musyahya/laravel_8_blog"> Musyahya </a>
-- Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
+- Github : <a href="https://github.com/MuhammadDzackyIlham"> Muhammad Dzacky Ilham </a>
+
 
 ## Fitur 
 
